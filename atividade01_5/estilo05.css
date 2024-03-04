@@ -1,0 +1,16 @@
+.lista-ordenada li {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid rgb(12, 1, 1);
+    border-radius: 5px;
+}
+
+.lista-ordenada li:first-child {
+    background-color: rgb(32, 0, 211);
+    color: darkorange;
+}
+
+.lista-ordenada li:last-child {
+    background-color: rgb(65, 100, 0);
+    border: none;
+}
